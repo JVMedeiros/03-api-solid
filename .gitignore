@@ -1,0 +1,11 @@
+## Packages
+node_modules
+
+## Build
+build
+
+## Tests
+coverage
+
+## Environment
+.env
