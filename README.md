@@ -1,5 +1,4 @@
 # App
-
 ## RFs (Requisitos Funcionais)
 
 - [X] Deve ser possível se cadastrar;
